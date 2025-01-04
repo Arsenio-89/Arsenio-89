@@ -1,4 +1,4 @@
-<h1>Hi, I'm Arsenio! <br/><a href="https://github.com/joshmadakor1"> <a href="https://www.linkedin.com/in/joshmadakor/">IT Specialist</a>
+<h1>Hi, I'm Arsenio! <a href="https://github.com/arsenio-sylvester-3">IT Specialist</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
