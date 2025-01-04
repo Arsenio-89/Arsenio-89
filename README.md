@@ -7,7 +7,13 @@ Here are some ideas to get you started:
 
 
 ![osticket pic](https://github.com/user-attachments/assets/8bb1a968-dfe8-40e7-9eb1-27c986afb209)
+osTicket - Prerequisites and Installation
 
+Environments and Technologies Used
+Microsoft Azure (Virtual Machines/Compute)
+Remote Desktop
+osTicket installation files
+HeidiSQL
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
