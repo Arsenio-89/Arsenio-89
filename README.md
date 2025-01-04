@@ -1,19 +1,37 @@
-## Hi I'm Arsenio, an IT Specialist
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h1>Hi, I'm Arsenio! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-**Arsenio-89/Arsenio-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b> osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Microsoft Azure</b>
+  - [Setting Up Active Directory using Azure VMs ](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols ](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+
+- <b>Virtual Private Network</b>
+  - [VPN Setup and Usage](https://github.com/joshmadakor1/Sentinel-Lab)
+  
+- <b>C# (.NET Desktop Applications)</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2>
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/joshmadakor
+
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-
-![osticket pic](https://github.com/user-attachments/assets/8bb1a968-dfe8-40e7-9eb1-27c986afb209)
-osTicket - Prerequisites and Installation
-
-Environments and Technologies Used
-Microsoft Azure (Virtual Machines/Compute)
-Remote Desktop
-osTicket installation files
-HeidiSQL
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
