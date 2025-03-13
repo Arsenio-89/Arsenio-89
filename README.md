@@ -1,19 +1,24 @@
-<h1>Hello I'm Arsenio, an <a href="https://www.linkedin.com/in/joel-joseph-768b8a270/">IT Specialist</a>☺</h1>
+# <a href="https://www.linkedin.com/in/arsenio-sylvester89/">Josh Madakor</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-<h2>🖥️ Information Technology Projects🖥</h2>
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-- <b> osTicket: Creating a Ticketing System for Help Desk </b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Arsenio-89/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Arsenio89/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Arsenio-89/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Setting Up Active Directory using Azure VMs](https://github.com/Arsenio-89/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/Arsenio-89/azure-network-protocols)
-- <b>Virtual Private Network</b>
-  - [VPN Setup in Virtual Machine ](https://github.com/Arsenio-89/Setting-UP-A-VPN)
 
-<h2>📩Contact Me</h2>
+## ⚠️ Vulnerability Management Projects
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- **[Vulnerability Management Program Implementation](https://github.com/arsenio-89/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/arsenio-89/programmatic-vulnerability-remediations)**
 
-[linkedin]:https://www.linkedin.com/in/arsenio-sylvester89
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/arsenio-89/threat-hunting-scenario-tor)**
+
+<hr/>
+
+## 🤳 Connect With Me
+
+[linkedin]: https://linkedin.com/in/Arsenio-89
+
+<!--
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
+-->
