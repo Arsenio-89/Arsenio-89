@@ -10,7 +10,8 @@
   - [Setting Up Active Directory using Azure VMs](https://github.com/Arsenio-89/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/Arsenio-89/azure-network-protocols)
 - <b>Virtual Private Network</b>
-  - [VPN Setup in Virtual Machine ](https://github.com/Arsenio*89/Setting-UP-A-VPN)
+  - [VPN Setup in Virtual Machine ](https://github.com/Arsenio*89/Setting-UP-A-VPN
+)
 
 <h2>📩Contact Me</h2>
 
