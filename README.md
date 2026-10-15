@@ -28,7 +28,7 @@
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/Arsenio-89/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/Arsenio-89/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/Arsenio-89/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
