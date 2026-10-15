@@ -26,9 +26,4 @@
 
 <h2>⚠️ Vulnerability Management Projects<h2>
 
- - [Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
- - [Programmatic Vulnerability Remediations (PowerShell & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
- - [Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-<h2>🚨 Threat Hunting and Security Operations<h2>
-- [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Arsenio-89/threat-hunting-scenario-tor)**
