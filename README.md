@@ -13,7 +13,6 @@
   - [VPN Setup in Virtual Machine ](https://github.com/Arsenio-89/Setting-UP-A-VPN
 )
 
-<h2>📩Contact Me</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
