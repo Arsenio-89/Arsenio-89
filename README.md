@@ -24,7 +24,7 @@
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
 
-⚠️ Vulnerability Management Projects
+<h2>⚠️ Vulnerability Management Projects<h2>
 
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
